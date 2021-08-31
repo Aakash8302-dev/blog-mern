@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.blog{
+    margin: 4rem 0 !important;
+    font-family: 'Poppins', sans-serif;
+}
+
+.blogTitle{
+    font-weight: 700;
+}
+
+.blogBody{
+    font-weight: 500;
+    margin: 0 0 0.5rem 0;
+}
+
+.blogFooter{
+    display: flex;
+    justify-content:left;
+    font-weight: 400;
+    opacity: 0.8;
+}
+
+.blogFooter div{
+    padding: 0 1.5rem 0 0;
+}
